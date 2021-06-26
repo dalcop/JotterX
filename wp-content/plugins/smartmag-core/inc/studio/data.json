@@ -1,0 +1,663 @@
+{
+	"1": {
+		"tab": "blocks",
+		"title": "Content + Sidebar",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/structure-sidebar.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/structure-sidebar@2x.jpg",
+		"tags": [
+			"structure"
+		]
+	},
+	"2": {
+		"tab": "blocks",
+		"title": "Content + Sticky Sidebar",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/structure-sidebar.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/structure-sidebar@2x.jpg",
+		"tags": [
+			"structure"
+		],
+		"order": 1
+	},
+	"15": {
+		"tab": "pages",
+		"title": "Home - Good News",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-good-news.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-good-news.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/good-news/",
+		"tags": [
+			"home"
+		]
+	},
+	"16": {
+		"tab": "pages",
+		"title": "Home - Gaming",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-gaming.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-gaming.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/gaming/",
+		"tags": [
+			"home"
+		]
+	},
+	"17": {
+		"tab": "pages",
+		"title": "Home - TheZine",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-zine.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-zine.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/zine/",
+		"tags": [
+			"home"
+		]
+	},
+	"18": {
+		"tab": "pages",
+		"title": "Home - Sports",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-sports.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-sports.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/sports/",
+		"tags": [
+			"home"
+		]
+	},
+	"19": {
+		"tab": "pages",
+		"title": "Home - Trendy",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-trendy.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-trendy.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/trendy/",
+		"tags": [
+			"home"
+		]
+	},
+	"20": {
+		"tab": "pages",
+		"title": "Home - Tech 1",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-tech-1.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-tech-1.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/tech-1/",
+		"tags": [
+			"home"
+		]
+	},
+	"21": {
+		"tab": "pages",
+		"title": "Home - Tech 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-tech-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-tech-2.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/tech-2/",
+		"tags": [
+			"home"
+		]
+	},
+	"22": {
+		"tab": "pages",
+		"title": "Home - News",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-news.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-news.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/news/",
+		"tags": [
+			"home"
+		]
+	},
+	"23": {
+		"tab": "pages",
+		"title": "Home - Informed News",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-informed.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-informed.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/news/",
+		"tags": [
+			"home"
+		]
+	},
+	"24": {
+		"tab": "pages",
+		"title": "Home - Geeks Empire",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-geeks-empire.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-geeks-empire.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/geeks-empire/",
+		"tags": [
+			"home"
+		]
+	},
+	"25": {
+		"tab": "pages",
+		"title": "Home - PrimeMag",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-prime-mag.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-prime-mag.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/prime-mag/",
+		"tags": [
+			"home"
+		]
+	},
+	"26": {
+		"tab": "pages",
+		"title": "Home - Financial",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/home-financial.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/home-financial.jpg",
+		"livePreview": "https://smartmag.theme-sphere.com/prime-mag/",
+		"tags": [
+			"home"
+		]
+	},
+	"500": {
+		"tab": "blocks",
+		"title": "Grid 2 Cols",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-2@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"501": {
+		"tab": "blocks",
+		"title": "1: Grid 2 Cols - Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-2-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-2-full@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"502": {
+		"tab": "blocks",
+		"title": "2: Grid 3 Cols - Small",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-3-sm.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-3-sm@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"503": {
+		"tab": "blocks",
+		"title": "3: Grid Numbers 1 Col",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-numbers.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-numbers@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"504": {
+		"tab": "blocks",
+		"title": "4: Grid Numbers Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-numbers-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-numbers-full@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"505": {
+		"tab": "blocks",
+		"title": "5: Grid Title Above",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-title-above.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-title-above@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"506": {
+		"tab": "blocks",
+		"title": "6: Focus Grid",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-focus-grid.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-focus-grid@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"507": {
+		"tab": "blocks",
+		"title": "7: Focus Grid Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-focus-grid-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-focus-grid-full@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"508": {
+		"tab": "blocks",
+		"title": "8: News Focus",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-news-focus.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-news-focus@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"509": {
+		"tab": "blocks",
+		"title": "9: Highlights 1 Col",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-highlights-1.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-highlights-1@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"510": {
+		"tab": "blocks",
+		"title": "10: Highlights 2 Col",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-highlights-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-highlights-2@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"511": {
+		"tab": "blocks",
+		"title": "11: Small Posts",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-small-posts-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-small-posts-2@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"512": {
+		"tab": "blocks",
+		"title": "12: Small Posts Alt",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-small-posts.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-small-posts@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"513": {
+		"tab": "blocks",
+		"title": "13: Overlays",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-overlay.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-overlay@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"514": {
+		"tab": "blocks",
+		"title": "14: Overlays Tall Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-overlay-tall.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-overlay-tall@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"515": {
+		"tab": "blocks",
+		"title": "15: Overlays Tall Full 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-overlay-tall-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-overlay-tall-2@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"516": {
+		"tab": "blocks",
+		"title": "16: Overlays Tall 3",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-overlay-tall-3.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-overlay-tall-3@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+
+	"517": {
+		"tab": "blocks",
+		"title": "17: Posts List",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-list.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-list@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"518": {
+		"tab": "blocks",
+		"title": "18: List Large Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-list-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-list-full@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"519": {
+		"tab": "blocks",
+		"title": "19: List Compact",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-list-compact.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-list-compact@2x.jpg",
+		"tags": [
+			"block"
+		]
+	},
+	"520": {
+		"tab": "blocks",
+		"title": "20: Featured Grid 1",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-1.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-1@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"521": {
+		"tab": "blocks",
+		"title": "21: Featured Grid 1 Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-1-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-1-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"522": {
+		"tab": "blocks",
+		"title": "22: Featured Grid 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-2@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"523": {
+		"tab": "blocks",
+		"title": "23: Featured Grid 2 Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-2-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-2-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"524": {
+		"tab": "blocks",
+		"title": "24: Featured Grid 3",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-3.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-3@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"525": {
+		"tab": "blocks",
+		"title": "25: Featured Grid 3 - Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-3-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-3-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"526": {
+		"tab": "blocks",
+		"title": "26: Featured Grid 4",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-4.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-4@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"527": {
+		"tab": "blocks",
+		"title": "27: Featured Grid 4 - Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-4-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-4-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"528": {
+		"tab": "blocks",
+		"title": "28: Featured Single Full (Gaming)",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-eq1-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-eq1-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"529": {
+		"tab": "blocks",
+		"title": "29: Featured 2 Equals",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-eq2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-eq2@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"530": {
+		"tab": "blocks",
+		"title": "30: Featured 3 Equals",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-eq3.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-eq3@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"531": {
+		"tab": "blocks",
+		"title": "31: Featured 3 Equals Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-eq3-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-eq3-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"532": {
+		"tab": "blocks",
+		"title": "32: Featured 4 Equals Full",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-eq4-full.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-eq4-full@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+	"533": {
+		"tab": "blocks",
+		"title": "33: Featured 3 Centered",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-feat-grid-eq3-center.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-feat-grid-eq3-center@2x.jpg",
+		"tags": [
+			"featured"
+		]
+	},
+
+	"534": {
+		"tab": "blocks",
+		"title": "34: Carousel Grid 1",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-carousel.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-carousel@2x.jpg",
+		"tags": [
+			"block",
+			"carousel"
+		]
+	},
+	"535": {
+		"tab": "blocks",
+		"title": "35: Carousel Grid Dark",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-grid-carousel-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-grid-carousel-2@2x.jpg",
+		"tags": [
+			"block",
+			"carousel"
+		]
+	},
+	"536": {
+		"tab": "blocks",
+		"title": "36: Carousel Overlays",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-overlay-carousel.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-overlay-carousel@2x.jpg",
+		"tags": [
+			"block",
+			"carousel"
+		]
+	},
+	"537": {
+		"tab": "blocks",
+		"title": "37: Carousel News Ticker",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/block-carousel-ticker.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/block-carousel-ticker@2x.jpg",
+		"tags": [
+			"block",
+			"carousel"
+		]
+	},
+
+	"950": {
+		"tab": "blocks",
+		"title": "Newsletter Widget",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-1.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-1@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+	"951": {
+		"tab": "blocks",
+		"title": "Newsletter Widget 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-2@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+	"952": {
+		"tab": "blocks",
+		"title": "Newsletter Widget Dark",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-3.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-3@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+	"953": {
+		"tab": "blocks",
+		"title": "Newsletter Widget Dark 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-4.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-4@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+	"954": {
+		"tab": "blocks",
+		"title": "Newsletter Widget Large",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-lg-1.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-lg-1@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+	"955": {
+		"tab": "blocks",
+		"title": "Newsletter Widget Large 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-lg-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-lg-1@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+	"956": {
+		"tab": "blocks",
+		"title": "Newsletter Widget Large 3",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/newsletter-lg-3.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/newsletter-lg-3@2x.jpg",
+		"tags": [
+			"newsletter"
+		]
+	},
+
+
+	"1001": {
+		"tab": "blocks",
+		"title": "Section 1: Spotlight",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1002": {
+		"tab": "blocks",
+		"title": "Section 2: Spotlight 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-2.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-2@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1003": {
+		"tab": "blocks",
+		"title": "Section 3: Spotlight Sports",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-3.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-3@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1004": {
+		"tab": "blocks",
+		"title": "Section 4: Spotlight Tech",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-4.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-4@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1005": {
+		"tab": "blocks",
+		"title": "Section 5: Highlights",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-highlights.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-highlights@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1006": {
+		"tab": "blocks",
+		"title": "Section 6: Mixed List",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-mixed-list.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-mixed-list@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1007": {
+		"tab": "blocks",
+		"title": "Section 7: News Spotlight",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-7.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-7@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1008": {
+		"tab": "blocks",
+		"title": "Section 8: Informed Spotlight",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-8.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-8@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1009": {
+		"tab": "blocks",
+		"title": "Section 9: Mixed (Informed)",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-mixed-informed.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-mixed-informed@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1010": {
+		"tab": "blocks",
+		"title": "Section 10: Informed Spotlight 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-9.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-9@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1011": {
+		"tab": "blocks",
+		"title": "Section 11: GeeksEmpire Spotlight",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-10.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-10@2x.jpg",
+		"tags": [
+			"section"
+		]
+	},
+	"1012": {
+		"tab": "blocks",
+		"title": "Section 12: GeeksEmpire Spotlight 2",
+		"thumbnail": "https://theme-sphere.com/studio/smartmag/thumbs/section-spotlight-11.jpg",
+		"preview": "https://theme-sphere.com/studio/smartmag/section-spotlight-11@2x.jpg",
+		"tags": [
+			"section"
+		]
+	}
+}
