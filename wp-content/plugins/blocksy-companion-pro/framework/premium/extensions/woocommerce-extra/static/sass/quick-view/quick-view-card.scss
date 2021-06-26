@@ -1,0 +1,39 @@
+.ct-quick-view-card {
+
+	> section {
+		position: relative;
+		border-radius: 7px;
+		background: #fff;
+		-webkit-mask-image: -webkit-radial-gradient(white, black);
+
+		@include media-breakpoint-down (sm) {
+			overflow-y: auto;
+			max-height: inherit;
+		}
+	}
+
+	// onsale badge
+	.onsale,
+	.out-of-stock-badge {
+		--badge-top: 25px;
+		--badge-left: 25px;
+	}
+
+	// close button
+	.ct-close-button {
+		--position: absolute;
+		--z-index: 1;
+		--top: 25px;
+		--right: 25px;
+		--icon-color: var(--color);
+		--closeButtonSize: 32px;
+		--closeButtonRadius: 100%;
+		--closeButtonBackground: #F2F2F2;
+
+		&:hover {
+			&:before {
+				transform: scale(1.15);
+			}
+		}
+	}
+}
