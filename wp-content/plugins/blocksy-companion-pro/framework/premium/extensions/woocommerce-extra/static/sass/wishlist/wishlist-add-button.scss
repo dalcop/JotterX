@@ -1,0 +1,18 @@
+.ct-wishlist-add {
+
+	&:not(.active) .ct-heart-fill {
+		opacity: 0;
+	}
+}
+
+
+// wishlist button inside quick view modal
+.ct-price-container {
+	display: flex;
+	justify-content: space-between;
+
+	.ct-wishlist-add {
+		--icon-color: #ffffff;
+		--trigger-background: var(--paletteColor1);
+	}
+}

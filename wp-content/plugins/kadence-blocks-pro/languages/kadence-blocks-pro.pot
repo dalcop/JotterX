@@ -1,0 +1,2406 @@
+# Copyright (C) 2021 Kadence WP
+# This file is distributed under the same license as the Kadence Blocks - PRO Extension plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence Blocks - PRO Extension 1.4.33\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-blocks-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-24T19:24:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: kadence-blocks-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Kadence Blocks - PRO Extension"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extends Kadence Blocks with powerful extras that make it possible to create beautiful content in the WordPress Block Editor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kadencewp.com/"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:66
+msgid "Cloning instances of the class is forbidden."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:76
+msgid "Unserializing instances of the class is forbidden."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:236
+msgid "Install Kadence Blocks"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:239
+msgid "Activate Kadence Blocks"
+msgstr ""
+
+#. translators: %s is a link to kadence block plugin.
+#: class-kadence-blocks-pro.php:256
+msgid "Kadence Blocks Pro requires %s to be active for all functions to work."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:258
+msgid "Activating..."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:258
+msgid "Activated"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:258
+msgid "Installing..."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:258
+msgid "Installed"
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:123
+#: dist/blocks.build.js:1
+msgid "No Content"
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:146
+msgid "The source id."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:152
+msgid "The source of the content."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:158
+msgid "The group for source."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:164
+msgid "The dynamic field"
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:169
+msgid "The custom field setting."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:173
+msgid "The custom field Key."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:177
+msgid "For a string return"
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:182
+msgid "Text Before Item."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:186
+msgid "Text After Item."
+msgstr ""
+
+#: dist/class-kadence-blocks-dynamic-content-controller.php:190
+msgid "Fallback."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:432
+#: dist/class-kadence-blocks-post-select-controller.php:518
+msgid "Include posts by ID."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:438
+#: dist/class-kadence-blocks-post-select-controller.php:525
+msgid "Number of results to return."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:444
+msgid "Define Type of Query."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:448
+msgid "Define Query Order."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:452
+#: dist/class-kadence-blocks-post-select-controller.php:476
+msgid "Define Query Order By."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:456
+msgid "Allow Sticky in Query."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:461
+msgid "Exclude Category."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:465
+msgid "Number of items to offset in query."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:471
+msgid "Check if using a custom Taxonomy"
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:480
+msgid "Include posts category."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:485
+msgid "Include posts tags."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:502
+msgid "Limit results to items of an object type."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:513
+msgid "Limit results to items that match search query."
+msgstr ""
+
+#: dist/class-kadence-blocks-post-select-controller.php:532
+msgid "Page of results to return."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:55
+msgid "Send in Blue V3 API Key"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:66
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:89
+#: dist/blocks.build.js:1
+msgid "Image Overlay"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:90
+msgid "The Image Overlay block is a beautiful way to create an image link with an overlay title and subtitle. Using the powerful options you can set placement, animations, and hover effects."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:95
+msgid "Split Content"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:96
+msgid "Easily create a two column row using an image or video in one column, drag to adjust the media column width and input any desirable blocks in the content column."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:101
+#: dist/blocks.build.js:1
+msgid "Post Grid/Carousel"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:102
+msgid "Add a grid or carousel of posts and customize the styling to your desired look. Posts can be selected individually or by category or tag."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:107
+#: dist/blocks.build.js:1
+msgid "Modal"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:108
+msgid "Easily create call to action buttons that open a modal box. Include any kind of content within your modal. Customize overlay, animation, size, placement etc."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:113
+msgid "Product Carousel"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:114
+msgid "Add a Woocommerce Product Carousel to your page or post. You can select products by category, on sale, best selling or just individually select the products you want to show."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:119
+#: dist/blocks.build.js:1
+msgid "Video Popup"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:120
+msgid "Beautifully display a thumbnail with overlay and hover effect that links to a video popup on click. Works with local or external videos!"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:125
+#: dist/blocks.build.js:1
+msgid "Portfolio Grid/Carousel"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:126
+msgid "Display a grid or carousel of portfolio styled posts. Use any post type and define colors, hover animations. You can also add a filter for sorting."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:103
+msgctxt "Kadence Blocks"
+msgid "Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:131
+msgid "Choose or Upload File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:132
+msgid "Use this File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:144
+msgid "Icon Set"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:169
+msgid "Icon Set Name:"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:174
+msgid "Icon Set Prefix:"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:176
+#: dist/class-kadence-blocks-pro-custom-icons.php:178
+#: dist/class-kadence-blocks-pro-custom-icons.php:203
+msgid "Edit File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:179
+#: dist/class-kadence-blocks-pro-custom-icons.php:204
+msgid "Save/Publish to see uploaded icons."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:199
+msgid "Selection.json file"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:200
+msgid "Upload .json file from within the IcoMoon .zip file (Make sure each set has a unique prefix)"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:202
+msgid "Upload File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:338
+#: dist/class-kadence-blocks-pro-custom-icons.php:350
+msgid "Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:339
+msgid "Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:340
+#: dist/class-kadence-blocks-pro-custom-icons.php:341
+msgid "Add New Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:342
+msgid "Edit Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:343
+msgid "New Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:344
+msgid "All Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:345
+msgid "View Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:346
+msgid "Search Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:347
+msgid "No Custom Icons found"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:348
+msgid "No Custom Icons found in Trash"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:397
+msgid "Custom Icon Set"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:418
+msgid "Not Found"
+msgstr ""
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:147
+msgid "The API Key for mailchimp account."
+msgstr ""
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:152
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:131
+msgid "Actionable endpoint for api call."
+msgstr ""
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:157
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:136
+msgid "Query Args for url."
+msgstr ""
+
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:126
+msgid "The API Key for SendInBlue account."
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:198
+#: dist/dynamicblocks/kadence-dynamic-content.php:320
+msgid "Post"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:202
+msgid "Post Title"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:206
+#: dist/dynamicblocks/kadence-dynamic-content.php:324
+msgid "Post URL"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:210
+msgid "Post Excerpt"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:214
+msgid "Post ID"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:218
+msgid "Post Date"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:222
+msgid "Post Last Modified Date"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:226
+#: dist/dynamicblocks/kadence-dynamic-content.php:328
+msgid "Featured Image URL"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:230
+msgid "Post Type"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:234
+msgid "Post Status"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:238
+#: dist/dynamicblocks/kadence-dynamic-content.php:332
+msgid "Post Custom Field"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:243
+#: dist/dynamicblocks/kadence-dynamic-content.php:337
+msgid "Archive"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:247
+msgid "Archive Title"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:251
+#: dist/dynamicblocks/kadence-dynamic-content.php:341
+msgid "Archive URL"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:255
+msgid "Archive Description"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:259
+msgid "Archive Custom Field"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:264
+#: dist/dynamicblocks/kadence-dynamic-content.php:346
+msgid "Site"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:268
+msgid "Site Title"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:272
+msgid "Site Tagline"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:276
+#: dist/dynamicblocks/kadence-dynamic-content.php:350
+msgid "Site URL"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:280
+msgid "Page Title"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:284
+#: dist/blocks.build.js:1
+msgid "User Info"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:292
+msgid "Author"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:296
+msgid "Author Info"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:300
+msgid "Author Custom Field"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:304
+msgid "Author Name"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:567
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:569
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: search query
+#: dist/dynamicblocks/kadence-dynamic-content.php:575
+msgid "Search Results for: %s"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:659
+#: dist/dynamicblocks/portfolio-grid-carousel.php:671
+#: dist/dynamicblocks/post-grid-carousel.php:970
+#: dist/dynamicblocks/post-grid-carousel.php:982
+#: dist/form/admin/kb-form-admin-entries-table-list.php:663
+#: dist/blocks.build.js:1
+msgid "All"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:829
+#: dist/dynamicblocks/post-grid-carousel.php:2477
+msgid "No posts"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:937
+msgid "View Project Preview"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:938
+msgid "Zoom"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:334
+msgid "Posted on"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:342
+msgid "Updated on"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:350
+msgid "By"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:358
+msgid "Posted in"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:557
+#: dist/blocks.build.js:1
+msgid "Read More"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:2334
+msgid "Comment"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:2336
+msgid "Comments"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:2463
+msgid "Comment Count"
+msgstr ""
+
+#: dist/dynamicblocks/product-carousel.php:231
+msgid "WooCommerce Missing"
+msgstr ""
+
+#: dist/dynamicblocks/user-info.php:389
+msgid "Joined on"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:94
+#: dist/blocks.build.js:1
+msgid "Form Name"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:95
+msgid "Date Created"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:207
+msgid "Entry ID"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:208
+msgid "Form ID"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:209
+msgid "Page"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:210
+msgid "User IP"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:211
+msgid "User Device"
+msgstr ""
+
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:278
+#: dist/form/admin/export/class-kb-entry-csv-exporter.php:281
+#: dist/form/admin/kadence-admin-form-entries.php:150
+#: dist/form/admin/kadence-admin-form-entries.php:156
+#: dist/form/admin/kadence-admin-form-entries.php:161
+msgid "No Data"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:55
+msgid "Kadence Blocks - Form Entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:55
+#: dist/form/admin/kadence-admin-form-entries.php:281
+msgid "Form Entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:127
+msgid "Form Entry"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:128
+msgid "Back to All Entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:137
+msgid "%1$s : Entry #%2$s"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:171
+msgid "Entry Details"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:177
+msgid "Entry ID:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:182
+msgid "Form ID:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:187
+msgid "Form Name:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:192
+msgid "Submitted:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:200
+msgid "User:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:218
+msgid "Page:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:225
+msgid "User IP:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:232
+msgid "User Device:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:255
+msgid "Move to trash"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:289
+msgid "Search entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:319
+msgid "Insufficient privileges to export entries."
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:59
+#: dist/form/admin/kb-form-admin-entries-table-list.php:175
+msgid "Published"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:60
+#: dist/form/admin/kb-form-admin-entries-table-list.php:176
+#: dist/form/admin/kb-form-admin-entries-table-list.php:255
+msgid "Trash"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:239
+msgid "View"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:275
+msgid "Restore"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:292
+msgid "Delete Permanently"
+msgstr ""
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:579
+msgid "%d entry restored."
+msgid_plural "%d entries restored."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:589
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:599
+msgid "%d entry trashed."
+msgid_plural "%d entries trashed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:607
+msgid "Trash permanently deleted"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:636
+msgid "Filter"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:640
+msgid "Export CSV"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:646
+msgid "Empty Trash"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:661
+msgid "Filter by form"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:52
+#: dist/form/kbp-form-actions.php:62
+#: dist/blocks.build.js:1
+msgid "Thanks for contacting us!"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:53
+#: dist/form/kbp-form-actions.php:63
+#: dist/blocks.build.js:1
+msgid "Thanks for getting in touch, we will respond within the next 24 hours."
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:148
+msgid "submission"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:157
+#: dist/form/kbp-form-actions.php:432
+msgid "Not Collected"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:273
+msgid "No Response from SendInBlue"
+msgstr ""
+
+#. translators: %s - link to a site.
+#: dist/templates/form-auto-email.php:136
+msgid "Sent from %s"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Edit"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Clear"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "None"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Up Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Up Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Down Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Down Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Flip Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Flip Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Flip Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Flip Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom In"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom In Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom In Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom In Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom In Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom Out Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom Out Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom Out Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom Out Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Reveal Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Reveal Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Reveal Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Reveal Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Cover Swipes Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Cover Swipes Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Cover Swipes Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Cover Swipes Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Opposite Sides In"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Center Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Opposite Sides In"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Center Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Animate on Scroll"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Animation"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Animation Duration"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Animation Ease"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Start Delay"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Only show once per page load?"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Pixel offset for when animation triggers"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Offset Delay for each part"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Play Animation"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Animate On Scroll"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Overlay"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Linked"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Individual"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading %d"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Edit image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Edit Media"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "clear"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Image File Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Same Window"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "New Window"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Static"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom in"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Gray Scale"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Blur"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Overlay Opacity"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Use ratio size instead of image size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Size Ratio"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Square 1:1"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Portrait 3:4"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Portrait 2:3"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Tall Portrait 1:2"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Landscape 4:3"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Landscape 3:2"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Wide Landscape 16:9"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Wider Landscape 2:1"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Hover Overlay Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Overlay Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Border Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Border Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Border Control Type"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Border Thickness"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Border Position from Edge"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Text Alignment Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Vertical Align"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Center"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Top"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Bottom"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Opposite"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Horizontal Align"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Make Text Background Full"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Title Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Use Title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "HTML Tag"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Title Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Title Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Title and Subtitle Divider"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Divider Style"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Solid Line"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Dashed Line"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Dotted Line"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Double Line"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Divider Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Divider Height in px"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Divider Width by %"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Subtitle Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Use Subtitle"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Subtitle Style"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Hidden until Hover"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Always Visible"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Subtitle Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Subtitle Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid " Upload Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Subtitle"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Media Link"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Media Area Background Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Content Area Background Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Shadow Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link Target"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "NOTE: Video popup only works with youtube and vimeo links."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Open in New Tab"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "No Follow"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Sponsored"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Download"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Apply"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Grid Carousel"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "KB"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Display a grid or carousel of posts."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Newest to Oldest"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Oldest to Newest"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modified Ascending"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modified Decending"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "A → Z"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Z → A"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Menu Order"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Random"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Include"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Exclude"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select the post Taxonomy"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Filter by Category"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Filter by Tag"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Whether to include or exclude items from selected terms."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Unique"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Exclude posts in this block from showing in others on the same page."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Allow Sticky Posts?"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Layout Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Layout"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Grid"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Masonry"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Carousel"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Autoplay Speed"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Carousel Slide Transition Speed"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slides to Scroll"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Arrow Style"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "White on Dark"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Black on Light"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Outline Black"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Outline White"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Dot Style"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Dark"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Light"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Outline Dark"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Outline Light"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Column Gap"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Row Gap"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Display Filter"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Filter"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Filter Colors"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Hover Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Active Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Filter Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Filter Typography Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Container Border Width"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Border Radius"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Box Shadow"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Image ratio"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Landscape 4:2"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Inherit"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Image is a link to post"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Image Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Above Title Categories"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Categories Above title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Category Divider"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Categories Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link Hover Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Categories Typography Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Above Title Taxonomy"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Taxonomy Above title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Taxonomy Divider"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Taxonomy Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Taxonomy Typography Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Title Typography Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Below Title Meta"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Date"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Date Pre Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Modified Date"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modified Date Pre Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Author"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Author Pre Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Category"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Category Pre Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Comment Count"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Meta Divider"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Meta Typography Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Excerpt"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Excerpt"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enable Custom Excerpt Length"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Max number of words in excerpt"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Read More"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Read More Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Read More Border Width"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Read More Border Radius"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Footer Meta"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Force to align bottom?"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Categories"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Tags"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Author Icon"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Comment Count (post must have comments)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Popup"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "HOVER: Link Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "HOVER: Link Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "HOVER: Link Border Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Link Border Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Icon Side"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show only Icon"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Using this you can define a custom open ID making it possible to open from another link on your page. The link should be #CUSTOMID and you need to give the link the class “modal-trigger”."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Overlay Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Overlay Background Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Animation Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Open Animation"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide In Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide In Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide In Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide In Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Close Animation"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Out Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Out Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Out Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Out Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Out Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Out Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Out Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Out Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Position Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Horizonal Align"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Vertical Align"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Middle"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Height"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fit to Content"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fixed Minimum Height"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Full Screen Height"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fixed Minimum Height (px)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Width (%)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Max Width (px)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Close Button"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enable Close X"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Close X Position"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Close X Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Color Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "HOVER: X Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "HOVER: X Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "X Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "X Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Close Button Aria Label"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "This defines the aria label to make the close button more accessable."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Styling"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Inner Horizonal Align"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Inner Vertical Align"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Background Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Border Width (px)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Border Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Border Radius (px)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Margin"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Modal Box Shadow"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enable Shadow"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Shadow Blur"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Shadow Spread"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Shadow Vertical Offset"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Shadow Horizontal Offset"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Load Content After Footer"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "This creates better support for a modal if placed outside of content area."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Create Awesome"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Display a grid or carousel of portfolio styled posts."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fluid Carousel"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Center on Hover"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Rollup Post"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Order by"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Content Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Display Taxonomies"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Show Taxonomies"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Excerpt Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select Posts"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "No posts found."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "(Untitled)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "user info"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "information"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Display a information about the current user."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading 1"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading 2"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading 3"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading 4"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading 5"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Heading 6"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Paragraph"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Container Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Content Alignment"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Container Background"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Container Border Radius"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Container Border Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Margin"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enable Avatar"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Width"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Border Radius"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Border Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Border Width"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Avatar Gap with Content"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Name Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enable Name"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Before Name Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Name HTML Tag"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Change Heading Level"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Name Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Name Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Name Margin"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Registered Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enable Registered Date"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Before Registered Date Text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Registered Date Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Registered Date Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Registered Date Margin"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Capitalize"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Uppercase"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Lowercase"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Font Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Line Height"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Letter Spacing"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Text Transform"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Font Family"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select a font family"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Font Weight"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Font Style"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Font Subset"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Load Google Font on Frontend"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Padding (px)"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Email"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Redirect"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Auto Respond Email"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Send instant response to form entrant"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Database Entry"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Log each form submission"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Mailerlite"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Add User to MailerLite list"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "SendInBlue"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Add User to SendInBlue list"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "MailChimp"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Add User to MailChimp list"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Auto Response Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Email Subject"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Email Message"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "From Email"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "From Name"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Reply To"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Cc"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Bcc"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Send as HTML email?"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "If off plain text is used."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Override Email to Address"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "By default email is sent to the email field, you can use this to override."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Entry Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Save User IP Address"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Saves the entrants IP address with the form data"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Save User Device"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Saves the entrants device with form data"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Webhook Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Webhook URL"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter the URL that will receive the form submitted data."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "SendInBlue Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Get API Key"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Get help"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Saving"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Save"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Remove"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "No list found."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "No Fields found."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "MailChimp Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select Audience"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "No Audience found."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "No Groups found."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Require Double Opt In?"
+msgstr ""

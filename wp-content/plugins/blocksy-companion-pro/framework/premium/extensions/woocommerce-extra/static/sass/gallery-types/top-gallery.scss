@@ -1,0 +1,14 @@
+.ct-top-gallery {
+
+	.flexy-pills {
+		@include media-breakpoint-up (lg) {
+			max-width: 60%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		ol:not([data-flexy]) {
+			--pills-horizontal-alignment: center;
+		}
+	}
+}
